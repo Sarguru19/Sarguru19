@@ -1,11 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sarguru Prasad</h1>
-<h3 align="center">I am an IT Professional with 2 years of experience in: System configuration and administration User management and access control Incident analysis and resolution I am passionate about leveraging technology to solve complex problems and improve system efficiency. My expertise spans system integration, customization, and collaboration with cross-functional teams.</h3>
+# Hi there, I'm Sarguru Prasad 👋  
 
-- 🌱 I’m currently learning **DSA.**
+### 🌟 About Me  
+Dedicated and detail-oriented IT professional with 2 years of experience in configuration, user management, incident analysis, and system administration. I am passionate about leveraging tools like Confluence, Jira, TestRail, and Aspera Faspex to streamline processes, enhance productivity, and ensure secure operations. Certified in Microsoft Azure Fundamentals and Power Platform Fundamentals, I have a strong foundation in system integration, customization, and .NET Core development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠️ Technical Skills  
+- **Tools**: Confluence, Jira, TestRail, Aspera Faspex, Artifactory  
+- **Languages/Technologies**: .NET Core  
+- **System Administration**: User Management, Integration, Security, and Access Control  
+- **Incident Management**: Triage, Root Cause Analysis, Escalation, and Issue Resolution  
+- **Collaboration**: Team Collaboration, Process Improvement, Knowledge Sharing  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📌 Certifications  
+- Microsoft Certified: Azure Fundamentals  
+- Microsoft Certified: Power Platform Fundamentals  
+
+### 🚀 Professional Experience  
+**IT Specialist | GDAS Team**  
+📅 2023 – Present  
+- Configured and maintained Confluence and Jira for seamless project collaboration.  
+- Managed user roles, security, and access controls for Confluence and Jira.  
+- Provided end-user support and customization for TestRail to meet project-specific requirements.  
+- Administered Aspera Faspex and Artifactory, ensuring secure file sharing and software development support.  
+- Triaged incidents effectively, identifying root causes and escalating critical issues.  
+- Collaborated with team members to analyze patterns and improve incident management processes.  
+
+**Key Achievements**:  
+- Streamlined user management for key tools like Confluence and Jira.  
+- Enhanced TestRail efficiency through effective customization and user support.  
+- Reduced operational downtime by improving incident response times and identifying recurring issues.  
+
+### 🎯 Professional Development  
+- Hands-on experience with incident management, escalation procedures, and root cause analysis.  
+- Focused on continuous learning to improve technical expertise and team collaboration.  
+- Open to taking on leadership roles and driving project efficiency.  
+
+### 🤝 Soft Skills  
+- Effective Communication  
+- Team Collaboration  
+- Problem Solving  
+- Analytical Thinking  
+- Adaptability  
+
+### 💡 Additional Information  
+- Eager to learn and adapt to new tools, systems, and processes.  
+- Committed to contributing actively to team success and taking on responsibilities that drive project goals.  
+
+### 📫 Let's Connect  
+Feel free to reach out to discuss collaboration opportunities, tools, or projects!  
+- 💼 [LinkedIn](#) (Update this with your LinkedIn profile link!)  
+- 📧 [Email](#) (Add your professional email here!)  
+
+---
+“Always exploring new ways to solve challenges, optimize workflows, and contribute to team success!” 🚀  
