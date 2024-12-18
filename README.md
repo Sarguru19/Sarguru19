@@ -15,7 +15,7 @@ Dedicated and detail-oriented IT professional with 2 years of experience in conf
 - Microsoft Certified: Power Platform Fundamentals  
 
 ### 🚀 Professional Experience  
-**IT Specialist | GDAS Team**  
+**IT Specialist |**  
 📅 2023 – Present  
 - Configured and maintained Confluence and Jira for seamless project collaboration.  
 - Managed user roles, security, and access controls for Confluence and Jira.  
